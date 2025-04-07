@@ -1,17 +1,13 @@
 ## Hola, soy <a href="https://github.com/YuriMolleapaza">YuriMolleapaza</a> 👋
 </div>
-<img src="https://i.imgur.com/l6NGVZM.jpeg">
-<!--
-**YuriMolleapaza/YuriMolleapaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://static.vecteezy.com/system/resources/thumbnails/024/238/434/small_2x/ai-generated-small-robots-futuristic-marvels-of-artificial-intelligence-free-png.png">
 
-Here are some ideas to get you started:
+## Sobre mi
+- 🔭 Trabajo en YachayTic
+- ✏️ Aprendo constantemente ...
+- 💬 Software Developer
+- 📲 Mobile Developer
+- 😄 Creador de [YachayTic](https://yachaytic.com)
+<br>
 
-- 🔭 I’m currently working on YachayTic
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis Proyectos
